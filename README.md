@@ -10,7 +10,7 @@ Instead of relying on fixed-size maps or hard limits, Engine Zero generates cont
 - Deterministic, reproducible worlds
 - Designed for long-running worlds
 
-  ## limits:
+## limits:
 The way engine zero works limits world size based on alocated storange, The world is limited by storage.
 
 ## Status
